@@ -1,0 +1,17 @@
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+
+# VS Code settings
+.vscode/
+
+# Output files
+etiquetas_amazon.txt
+xmlReader.py
+# Environment files
+.env
+*.env
+
+# OS generated files
+.DS_Store
+Thumbs.db
