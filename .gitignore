@@ -10,6 +10,8 @@ etiquetas_amazon.txt
 xmlReader.py
 build
 criador_etiquetas.spec
+CriadorEtiquetas
+CriadorEtiquetas.zip
 # Environment files
 .env
 *.env
