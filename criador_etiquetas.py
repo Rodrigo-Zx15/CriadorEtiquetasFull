@@ -249,4 +249,3 @@ def show_contact_info():
     
 
 window.mainloop()
-#generateLabelsButton = tk.Button(window,text="Gerar etiquetas!",command=xmlReader.generate_labels)
